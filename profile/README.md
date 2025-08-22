@@ -21,14 +21,6 @@ Crear aplicaciones y herramientas que marquen la diferencia, utilizando las últ
 - 🔧 **Calidad**: Nos comprometemos a entregar código limpio y funcional
 - 📚 **Aprendizaje**: Mantenemos una mentalidad de crecimiento continuo
 
-### 📊 Estadísticas del Equipo
-
-![Miembros Actuales](https://img.shields.io/github/org-members/Nekerit-Team?style=for-the-badge&label=Miembros&color=blue)
-![Repositorios Públicos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/orgs/Nekerit-Team&query=$.public_repos&style=for-the-badge&label=Repositorios&color=green)
-![Última Actualización](https://img.shields.io/badge/Actualización-Automática-brightgreen?style=for-the-badge)
-
-*Los miembros se cargan automáticamente desde la organización GitHub*
-
 </div>
 
 ## 🛠️ Tecnologías que Utilizamos
@@ -116,19 +108,17 @@ Crear aplicaciones y herramientas que marquen la diferencia, utilizando las últ
 ### 💼 ¿Buscas Unirte al Equipo?
 
 Siempre estamos buscando talento apasionado. Si tienes experiencia en:
-- 💻 **Programación**: cualquier lenguaje o tipo de proyecto
-- 🎨 **Diseño web y UX/UI**
-- ✏️ **Ilustración y diseño gráfico**
-- 🗄️ **Bases de datos y servidores**
-- 🔒 **Ciberseguridad**
-- 🤖 **Desarrollo en Discord**
-- � **Gestión de proyectos**: organiza, coordina y asegura que todo funcione
+ 💻 **Programación**: cualquier lenguaje o tipo de proyecto
+ 🎨 **Diseño web y UX/UI**
+ ✏️ **Ilustración y diseño gráfico**
+ 🗄️ **Bases de datos y servidores**
+ 🔒 **Ciberseguridad**
+ 🤖 **Desarrollo en Discord**
+ � **Gestión de proyectos**: organiza, coordina y asegura que todo funcione
 
 ¡Solicítalo! Rellena el formulario y únete a servidor de discord para saber si te hemos aceptado!
 
 [Formulario](https://soyhugo.es/nekerit/formulario)
-
-[![Discord](https://img.shields.io/badge/-Discord%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/k2jEVnKZ97)
 
 </div>
 
