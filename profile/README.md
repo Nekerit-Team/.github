@@ -108,13 +108,13 @@ Crear aplicaciones y herramientas que marquen la diferencia, utilizando las últ
 ### 💼 ¿Buscas Unirte al Equipo?
 
 Siempre estamos buscando talento apasionado. Si tienes experiencia en:
- 💻 **Programación**: cualquier lenguaje o tipo de proyecto
- 🎨 **Diseño web y UX/UI**
- ✏️ **Ilustración y diseño gráfico**
- 🗄️ **Bases de datos y servidores**
- 🔒 **Ciberseguridad**
- 🤖 **Desarrollo en Discord**
- � **Gestión de proyectos**: organiza, coordina y asegura que todo funcione
+- 💻 **Programación**: cualquier lenguaje o tipo de proyecto
+- 🎨 **Diseño web y UX/UI**
+- ✏️ **Ilustración y diseño gráfico**
+- 🗄️ **Bases de datos y servidores**
+- 🔒 **Ciberseguridad**
+- 🤖 **Desarrollo en Discord**
+- � **Gestión de proyectos**: organiza, coordina y asegura que todo funcione
 
 ¡Solicítalo! Rellena el formulario y únete a servidor de discord para saber si te hemos aceptado!
 
@@ -147,3 +147,4 @@ Nuestros proyectos open source están licenciados bajo [MIT License](https://mit
 *"Innovando juntos, construyendo el futuro"*
 
 </div>
+
